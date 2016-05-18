@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        textArea = UILabel(frame: CGRect(x: 0,y: 0,width: 170,height: 170))
+        
         
     }
 
