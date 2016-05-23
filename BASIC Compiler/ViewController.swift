@@ -9,13 +9,11 @@
 import UIKit
 
 class ViewController: UIViewController {
-
-    var textArea = UILabel()
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
+        view.backgroundColor = UIColor(red: 0, green: 1, blue: 0, alpha: 1)
         
     }
 
